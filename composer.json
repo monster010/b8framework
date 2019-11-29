@@ -1,9 +1,9 @@
 {
-    "name": "block8/b8framework",
+    "name": "monster010/b8framework",
     "type": "library",
     "description": "Simple, lightweight framework for high-throughput applications",
     "keywords": ["php", "framework", "b8", "block8", "lightweight", "mvc"],
-    "homepage": "https://github.com/block8/b8framework",
+    "homepage": "https://github.com/monster010/b8framework",
     "license": "BSD",
     "authors": [
         {
