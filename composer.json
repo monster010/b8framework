@@ -1,5 +1,5 @@
 {
-    "name": "monster010/b8framework",
+    "name": "block8/b8framework",
     "type": "library",
     "description": "Simple, lightweight framework for high-throughput applications",
     "keywords": ["php", "framework", "b8", "block8", "lightweight", "mvc"],
